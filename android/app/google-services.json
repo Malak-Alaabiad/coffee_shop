@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803871607568",
+    "project_id": "maloookcoffeeshop",
+    "storage_bucket": "maloookcoffeeshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803871607568:android:87c3705bf618ada35bb395",
+        "android_client_info": {
+          "package_name": "com.example.maloooook_coffee_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADbWUTB1F8SXJQF9RL2MwAUonEc07k9Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
