@@ -1,4 +1,4 @@
-# maloooook_coffee_shop
+# coffee_shop
 
 A new Flutter project.
 
